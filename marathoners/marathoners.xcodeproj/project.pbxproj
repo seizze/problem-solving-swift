@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C2FAD77323C5983400A184E4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FAD77223C5983400A184E4 /* main.swift */; };
 		C2FAD78023C5985100A184E4 /* marathoners_test.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FAD77F23C5985100A184E4 /* marathoners_test.swift */; };
+		C2FAD78623C5994800A184E4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FAD77223C5983400A184E4 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -181,6 +182,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2FAD78623C5994800A184E4 /* main.swift in Sources */,
 				C2FAD78023C5985100A184E4 /* marathoners_test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
