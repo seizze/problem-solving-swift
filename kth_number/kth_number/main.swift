@@ -8,5 +8,11 @@
 
 import Foundation
 
-print("Hello, World!")
+func solution(_ array:[Int], _ commands:[[Int]]) -> [Int] {
+    return commands.map { findKthNumber(array, $0) }
+}
 
+func findKthNumber(_ array: [Int], _ command: [Int]) -> Int {
+    let subArray = array[(command[0] - 1)...(command[1] - 1)].sorted()
+    return subArray[command[2] - 1]
+}
