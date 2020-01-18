@@ -9,15 +9,13 @@
 import Foundation
 
 let length = Int(readLine()!)!
-var sortingTable = Array(repeating: 0, count: 10001)
+var sortingTable = Array(repeating: "", count: 10001)
 
 for _ in 0..<length {
     let input = Int(readLine()!)!
-    sortingTable[input] += 1
+    sortingTable[input] += "\(input)\n"
 }
 
-let output = (1...10000)
-    .map { Array(repeating: "\($0)\n", count: sortingTable[$0]).joined() }
-    .reduce("", +)
+let output = sortingTable.joined()
 
 print(output)
