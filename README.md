@@ -8,6 +8,7 @@ Algorithm problems I solved.
 * ascending_sort — [problem link][ascending_sort_problem]
     * [Swift][ascending_sort_swift] (TIMEOUT)
     * [C][ascending_sort_c]
+* [happy_number][happy_number] — [problem link][happy_number_problem]
 
 
 [marathoners]: https://github.com/seizze/algorithm/blob/master/marathoners/marathoners/main.swift
@@ -19,5 +20,7 @@ Algorithm problems I solved.
 [ascending_sort_swift]: https://github.com/seizze/algorithm/blob/master/ascending_sort/ascending_sort/main.swift
 [ascending_sort_c]: https://github.com/seizze/algorithm/blob/master/ascending_sort_c/ascending_sort_c/main.c
 [ascending_sort_problem]:https://www.acmicpc.net/problem/10989
+[happy_number]: https://github.com/seizze/algorithm/blob/master/happy_number/happy_number/main.swift
+[happy_number_problem]: https://leetcode.com/problems/happy-number/
 
 
