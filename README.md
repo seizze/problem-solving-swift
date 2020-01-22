@@ -9,6 +9,7 @@ Algorithm problems I solved.
     * [Swift][ascending_sort_swift] (TIMEOUT)
     * [C][ascending_sort_c]
 * [happy_number][happy_number] — [problem link][happy_number_problem]
+* [single_number][single_number] — [problem link][single_number_problem]
 
 
 [marathoners]: https://github.com/seizze/algorithm/blob/master/marathoners/marathoners/main.swift
@@ -22,5 +23,7 @@ Algorithm problems I solved.
 [ascending_sort_problem]:https://www.acmicpc.net/problem/10989
 [happy_number]: https://github.com/seizze/algorithm/blob/master/happy_number/happy_number/main.swift
 [happy_number_problem]: https://leetcode.com/problems/happy-number/
+[single_number]: https://github.com/seizze/algorithm/blob/master/single_number/single_number/main.swift
+[single_number_problem]: https://leetcode.com/problems/single-number/
 
 
