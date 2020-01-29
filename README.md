@@ -10,6 +10,7 @@ Algorithm problems I solved.
     * [C][ascending_sort_c]
 * [happy_number][happy_number] — [problem link][happy_number_problem]
 * [single_number][single_number] — [problem link][single_number_problem]
+* [tree_traversal][tree_traversal] — [problem link][tree_traversal_problem]
 
 
 [marathoners]: https://github.com/seizze/algorithm/blob/master/marathoners/marathoners/main.swift
@@ -25,5 +26,7 @@ Algorithm problems I solved.
 [happy_number_problem]: https://leetcode.com/problems/happy-number/
 [single_number]: https://github.com/seizze/algorithm/blob/master/single_number/single_number/main.swift
 [single_number_problem]: https://leetcode.com/problems/single-number/
+[tree_traversal]: https://github.com/seizze/algorithm/blob/master/tree_traversal/tree_traversal/main.swift
+[tree_traversal_problem]: https://www.acmicpc.net/problem/1991
 
 
