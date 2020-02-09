@@ -11,6 +11,7 @@ Algorithm problems I solved.
 * [happy_number][happy_number] — [problem link][happy_number_problem]
 * [single_number][single_number] — [problem link][single_number_problem]
 * [tree_traversal][tree_traversal] — [problem link][tree_traversal_problem]
+* [roman_to_integer][roman_to_integer] — [problem link][roman_to_integer_problem]
 
 
 [marathoners]: https://github.com/seizze/algorithm/blob/master/marathoners/marathoners/main.swift
@@ -28,5 +29,5 @@ Algorithm problems I solved.
 [single_number_problem]: https://leetcode.com/problems/single-number/
 [tree_traversal]: https://github.com/seizze/algorithm/blob/master/tree_traversal/tree_traversal/main.swift
 [tree_traversal_problem]: https://www.acmicpc.net/problem/1991
-
-
+[roman_to_integer]: https://github.com/seizze/algorithm/blob/master/roman_to_integer/roman_to_integer/main.swift
+[roman_to_integer_problem]: https://leetcode.com/problems/roman-to-integer/
