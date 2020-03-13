@@ -12,6 +12,7 @@ Algorithm problems I solved.
 * [single_number][single_number] — [problem link][single_number_problem]
 * [tree_traversal][tree_traversal] — [problem link][tree_traversal_problem]
 * [roman_to_integer][roman_to_integer] — [problem link][roman_to_integer_problem]
+* [valid_parentheses][valid_parentheses] — [problem link][valid_parentheses_problem]
 
 
 [marathoners]: https://github.com/seizze/algorithm/blob/master/marathoners/marathoners/main.swift
@@ -31,3 +32,5 @@ Algorithm problems I solved.
 [tree_traversal_problem]: https://www.acmicpc.net/problem/1991
 [roman_to_integer]: https://github.com/seizze/algorithm/blob/master/roman_to_integer/roman_to_integer/main.swift
 [roman_to_integer_problem]: https://leetcode.com/problems/roman-to-integer/
+[valid_parentheses]: https://github.com/seizze/algorithm/blob/master/valid_parentheses/valid_parentheses/main.swift
+[valid_parentheses_problem]: https://leetcode.com/problems/valid-parentheses/
