@@ -2,17 +2,25 @@
 
 Algorithm problems I solved.
 
+### Programmers
+
 * [marathoners][marathoners] — [problem link][marathoners_problem]
-* [reverse_integer][reverse_integer] — [problem link][reverse_integer_problem]
 * [kth_number][kth_number] — [problem link][kth_number_problem]
+
+### LeetCode
+
+* [reverse_integer][reverse_integer] — [problem link][reverse_integer_problem]
+* [happy_number][happy_number] — [problem link][happy_number_problem]
+* [single_number][single_number] — [problem link][single_number_problem]
+* [roman_to_integer][roman_to_integer] — [problem link][roman_to_integer_problem]
+* [valid_parentheses][valid_parentheses] — [problem link][valid_parentheses_problem]
+
+### Baekjoon Online Judge
+
 * ascending_sort — [problem link][ascending_sort_problem]
     * [Swift][ascending_sort_swift] (TIMEOUT)
     * [C][ascending_sort_c]
-* [happy_number][happy_number] — [problem link][happy_number_problem]
-* [single_number][single_number] — [problem link][single_number_problem]
 * [tree_traversal][tree_traversal] — [problem link][tree_traversal_problem]
-* [roman_to_integer][roman_to_integer] — [problem link][roman_to_integer_problem]
-* [valid_parentheses][valid_parentheses] — [problem link][valid_parentheses_problem]
 
 
 [marathoners]: https://github.com/seizze/algorithm/blob/master/marathoners/marathoners/main.swift
