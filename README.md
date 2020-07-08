@@ -1,4 +1,4 @@
-# Problem solving
+# Problem Solving
 
 🌏 Problem solving solutions in Swift
 
@@ -30,11 +30,11 @@
 
 
 [marathoners-problem]: https://programmers.co.kr/learn/courses/30/lessons/42576
-[marathoners-solution]: https://github.com/seizze/algorithm/blob/master/marathoners/marathoners/main.swift
+[marathoners-solution]: https://github.com/seizze/problem-solving-swift/blob/master/Programmers/Programmers/Solutions/Marathoners.swift
 [reverse-integer-problem]: https://leetcode.com/problems/reverse-integer/
 [reverse-integer-solution]: https://github.com/seizze/algorithm/blob/master/reverse_integer/reverse_integer/Solution.swift
 [kth-number-problem]: https://programmers.co.kr/learn/courses/30/lessons/42748?language=swift
-[kth-number-solution]: https://github.com/seizze/algorithm/blob/master/kth_number/kth_number/main.swift
+[kth-number-solution]: https://github.com/seizze/problem-solving-swift/blob/master/Programmers/Programmers/Solutions/KthNumber.swift
 [ascending-sort-problem]:https://www.acmicpc.net/problem/10989
 [ascending-sort-solution-swift]: https://github.com/seizze/algorithm/blob/master/ascending_sort/ascending_sort/main.swift
 [ascending-sort-solution-c]: https://github.com/seizze/algorithm/blob/master/ascending_sort_c/ascending_sort_c/main.c
