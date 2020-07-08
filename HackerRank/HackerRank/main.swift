@@ -8,4 +8,4 @@
 
 import Foundation
 
-ClimbingTheLeaderboard().run()
+DynamicArray().run()
