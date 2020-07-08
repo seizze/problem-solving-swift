@@ -8,4 +8,4 @@
 
 import Foundation
 
-NewYearChaos().run()
+ClimbingTheLeaderboard().run()
