@@ -24,7 +24,7 @@ Algorithm problems I solved.
 
 ### HackerRank
 
-* [new_year_chaos][new_year_chaos] — [problem link][new_year_chaos_problem]
+* [New Year Chaos][new_year_chaos] — [problem link][new_year_chaos_problem]
 
 
 [marathoners]: https://github.com/seizze/algorithm/blob/master/marathoners/marathoners/main.swift
@@ -46,5 +46,5 @@ Algorithm problems I solved.
 [roman_to_integer_problem]: https://leetcode.com/problems/roman-to-integer/
 [valid_parentheses]: https://github.com/seizze/algorithm/blob/master/valid_parentheses/valid_parentheses/main.swift
 [valid_parentheses_problem]: https://leetcode.com/problems/valid-parentheses/
-[new_year_chaos]: https://github.com/seizze/algorithm/blob/master/new_year_chaos/new_year_chaos/main.swift
+[new_year_chaos]: https://github.com/seizze/algorithm/blob/master/HackerRank/HackerRank/Solutions/NewYearChaos.swift
 [new_year_chaos_problem]: https://www.hackerrank.com/challenges/new-year-chaos/problem
