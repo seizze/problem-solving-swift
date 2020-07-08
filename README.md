@@ -25,6 +25,7 @@
 ### HackerRank
 
 * [New Year Chaos][new-year-chaos-problem] — [solution][new-year-chaos-solution]
+* [Climbing the Leaderboard][climbing-the-leaderboard-problem] — [solution][climbing-the-leaderboard-solution]
 
 
 [marathoners-problem]: https://programmers.co.kr/learn/courses/30/lessons/42576
@@ -48,3 +49,5 @@
 [valid-parentheses-solution]: https://github.com/seizze/algorithm/blob/master/valid_parentheses/valid_parentheses/main.swift
 [new-year-chaos-problem]: https://www.hackerrank.com/challenges/new-year-chaos/problem
 [new-year-chaos-solution]: https://github.com/seizze/algorithm/blob/master/HackerRank/HackerRank/Solutions/NewYearChaos.swift
+[climbing-the-leaderboard-problem]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+[climbing-the-leaderboard-solution]: https://github.com/seizze/algorithm/blob/master/HackerRank/HackerRank/Solutions/ClimbingTheLeaderboard.swift
