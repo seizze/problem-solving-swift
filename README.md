@@ -26,6 +26,7 @@
 
 * [New Year Chaos][new-year-chaos-problem] — [solution][new-year-chaos-solution]
 * [Climbing the Leaderboard][climbing-the-leaderboard-problem] — [solution][climbing-the-leaderboard-solution]
+* [Dynamic Array][dynamic-array-problem] — [solution][dynamic-array-solution]
 
 
 [marathoners-problem]: https://programmers.co.kr/learn/courses/30/lessons/42576
@@ -51,3 +52,5 @@
 [new-year-chaos-solution]: https://github.com/seizze/algorithm/blob/master/HackerRank/HackerRank/Solutions/NewYearChaos.swift
 [climbing-the-leaderboard-problem]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 [climbing-the-leaderboard-solution]: https://github.com/seizze/algorithm/blob/master/HackerRank/HackerRank/Solutions/ClimbingTheLeaderboard.swift
+[dynamic-array-problem]: https://www.hackerrank.com/challenges/dynamic-array/problem
+[dynamic-array-solution]: https://github.com/seizze/algorithm/blob/master/HackerRank/HackerRank/Solutions/DynamicArray.swift
