@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		C27B449224B5940400378D62 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B449124B5940400378D62 /* main.swift */; };
+		C27B449924B5956A00378D62 /* NewYearChaos.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B449824B5956A00378D62 /* NewYearChaos.swift */; };
+		C27B449C24B5968500378D62 /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B449B24B5968500378D62 /* Solution.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		C27B448E24B5940400378D62 /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		C27B449124B5940400378D62 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		C27B449824B5956A00378D62 /* NewYearChaos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewYearChaos.swift; sourceTree = "<group>"; };
+		C27B449B24B5968500378D62 /* Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +61,19 @@
 		C27B449024B5940400378D62 /* HackerRank */ = {
 			isa = PBXGroup;
 			children = (
+				C27B449A24B5958000378D62 /* Solutions */,
+				C27B449B24B5968500378D62 /* Solution.swift */,
 				C27B449124B5940400378D62 /* main.swift */,
 			);
 			path = HackerRank;
+			sourceTree = "<group>";
+		};
+		C27B449A24B5958000378D62 /* Solutions */ = {
+			isa = PBXGroup;
+			children = (
+				C27B449824B5956A00378D62 /* NewYearChaos.swift */,
+			);
+			path = Solutions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +134,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C27B449924B5956A00378D62 /* NewYearChaos.swift in Sources */,
 				C27B449224B5940400378D62 /* main.swift in Sources */,
+				C27B449C24B5968500378D62 /* Solution.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

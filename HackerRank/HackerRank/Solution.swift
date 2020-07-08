@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Solution.swift
 //  HackerRank
 //
 //  Created by Chaewan Park on 2020/07/08.
@@ -8,4 +8,6 @@
 
 import Foundation
 
-NewYearChaos().run()
+protocol Solution {
+    func run()
+}
