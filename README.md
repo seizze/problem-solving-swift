@@ -6,6 +6,7 @@
 
 * [Marathoners][marathoners-problem] — [solution][marathoners-solution]
 * [Kth Number][kth-number-problem] — [solution][kth-number-solution]
+* [String Compression][string-compression-problem] — [solution][string-compression-solution]
 
 ### LeetCode
 
@@ -54,3 +55,5 @@
 [climbing-the-leaderboard-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/ClimbingTheLeaderboard.swift
 [dynamic-array-problem]: https://www.hackerrank.com/challenges/dynamic-array/problem
 [dynamic-array-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/DynamicArray.swift
+[string-compression-problem]: https://programmers.co.kr/learn/courses/30/lessons/60057
+[string-compression-solution]: https://github.com/seizze/problem-solving-swift/blob/master/Programmers/Programmers/Solutions/StringCompression.swift
