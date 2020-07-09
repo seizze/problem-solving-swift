@@ -8,4 +8,4 @@
 
 import Foundation
 
-KthNumber().run()
+StringCompression().run()
