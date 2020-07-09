@@ -28,6 +28,7 @@
 * [New Year Chaos][new-year-chaos-problem] — [solution][new-year-chaos-solution]
 * [Climbing the Leaderboard][climbing-the-leaderboard-problem] — [solution][climbing-the-leaderboard-solution]
 * [Dynamic Array][dynamic-array-problem] — [solution][dynamic-array-solution]
+* [Sparse Arrays][sparse-arrays-problem] — [solution][sparse-arrays-solution]
 
 
 [marathoners-problem]: https://programmers.co.kr/learn/courses/30/lessons/42576
@@ -57,3 +58,5 @@
 [dynamic-array-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/DynamicArray.swift
 [string-compression-problem]: https://programmers.co.kr/learn/courses/30/lessons/60057
 [string-compression-solution]: https://github.com/seizze/problem-solving-swift/blob/master/Programmers/Programmers/Solutions/StringCompression.swift
+[sparse-arrays-problem]: https://www.hackerrank.com/challenges/sparse-arrays/problem
+[sparse-arrays-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/SparseArrays.swift
