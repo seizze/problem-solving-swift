@@ -12,6 +12,7 @@
 		C27B449C24B5968500378D62 /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B449B24B5968500378D62 /* Solution.swift */; };
 		C27B449E24B59ED400378D62 /* ClimbingTheLeaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B449D24B59ED400378D62 /* ClimbingTheLeaderboard.swift */; };
 		C27B44A024B5C35300378D62 /* DynamicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B449F24B5C35300378D62 /* DynamicArray.swift */; };
+		C27B44BE24B702FE00378D62 /* SparseArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B44BD24B702FE00378D62 /* SparseArrays.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		C27B449B24B5968500378D62 /* Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
 		C27B449D24B59ED400378D62 /* ClimbingTheLeaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingTheLeaderboard.swift; sourceTree = "<group>"; };
 		C27B449F24B5C35300378D62 /* DynamicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicArray.swift; sourceTree = "<group>"; };
+		C27B44BD24B702FE00378D62 /* SparseArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparseArrays.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				C27B449824B5956A00378D62 /* NewYearChaos.swift */,
 				C27B449D24B59ED400378D62 /* ClimbingTheLeaderboard.swift */,
 				C27B449F24B5C35300378D62 /* DynamicArray.swift */,
+				C27B44BD24B702FE00378D62 /* SparseArrays.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				C27B449224B5940400378D62 /* main.swift in Sources */,
 				C27B449E24B59ED400378D62 /* ClimbingTheLeaderboard.swift in Sources */,
 				C27B449C24B5968500378D62 /* Solution.swift in Sources */,
+				C27B44BE24B702FE00378D62 /* SparseArrays.swift in Sources */,
 				C27B44A024B5C35300378D62 /* DynamicArray.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
