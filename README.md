@@ -29,6 +29,7 @@
 * [Climbing the Leaderboard][climbing-the-leaderboard-problem] — [solution][climbing-the-leaderboard-solution]
 * [Dynamic Array][dynamic-array-problem] — [solution][dynamic-array-solution]
 * [Sparse Arrays][sparse-arrays-problem] — [solution][sparse-arrays-solution]
+* [Balanced Brackets][balanced-brackets-problem] — [solution][balanced-brackets-solution]
 
 
 [marathoners-problem]: https://programmers.co.kr/learn/courses/30/lessons/42576
@@ -60,3 +61,5 @@
 [string-compression-solution]: https://github.com/seizze/problem-solving-swift/blob/master/Programmers/Programmers/Solutions/StringCompression.swift
 [sparse-arrays-problem]: https://www.hackerrank.com/challenges/sparse-arrays/problem
 [sparse-arrays-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/SparseArrays.swift
+[balanced-brackets-problem]: https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true
+[balanced-brackets-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/BalancedBrackets.swift
