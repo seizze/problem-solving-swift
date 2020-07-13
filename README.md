@@ -30,6 +30,7 @@
 * [Dynamic Array][dynamic-array-problem] — [solution][dynamic-array-solution]
 * [Sparse Arrays][sparse-arrays-problem] — [solution][sparse-arrays-solution]
 * [Balanced Brackets][balanced-brackets-problem] — [solution][balanced-brackets-solution]
+* [Queens Attack II][queens-attack-2-problem] — [solution][queens-attack-2-solution]
 
 
 [marathoners-problem]: https://programmers.co.kr/learn/courses/30/lessons/42576
@@ -63,3 +64,5 @@
 [sparse-arrays-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/SparseArrays.swift
 [balanced-brackets-problem]: https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true
 [balanced-brackets-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/BalancedBrackets.swift
+[queens-attack-2-problem]: https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true
+[queens-attack-2-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/QueensAttack2.swift
