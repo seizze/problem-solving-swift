@@ -13,6 +13,7 @@
 		C27B449E24B59ED400378D62 /* ClimbingTheLeaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B449D24B59ED400378D62 /* ClimbingTheLeaderboard.swift */; };
 		C27B44A024B5C35300378D62 /* DynamicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B449F24B5C35300378D62 /* DynamicArray.swift */; };
 		C27B44BE24B702FE00378D62 /* SparseArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B44BD24B702FE00378D62 /* SparseArrays.swift */; };
+		C2EAFFA824BC3D02006AAE42 /* BalancedBrackets.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EAFFA724BC3D02006AAE42 /* BalancedBrackets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		C27B449D24B59ED400378D62 /* ClimbingTheLeaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingTheLeaderboard.swift; sourceTree = "<group>"; };
 		C27B449F24B5C35300378D62 /* DynamicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicArray.swift; sourceTree = "<group>"; };
 		C27B44BD24B702FE00378D62 /* SparseArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparseArrays.swift; sourceTree = "<group>"; };
+		C2EAFFA724BC3D02006AAE42 /* BalancedBrackets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalancedBrackets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				C27B449D24B59ED400378D62 /* ClimbingTheLeaderboard.swift */,
 				C27B449F24B5C35300378D62 /* DynamicArray.swift */,
 				C27B44BD24B702FE00378D62 /* SparseArrays.swift */,
+				C2EAFFA724BC3D02006AAE42 /* BalancedBrackets.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C27B449924B5956A00378D62 /* NewYearChaos.swift in Sources */,
+				C2EAFFA824BC3D02006AAE42 /* BalancedBrackets.swift in Sources */,
 				C27B449224B5940400378D62 /* main.swift in Sources */,
 				C27B449E24B59ED400378D62 /* ClimbingTheLeaderboard.swift in Sources */,
 				C27B449C24B5968500378D62 /* Solution.swift in Sources */,
