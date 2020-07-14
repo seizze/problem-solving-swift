@@ -8,4 +8,4 @@
 
 import Foundation
 
-QueensAttack2().run()
+SherlockAndTheValidString().run()

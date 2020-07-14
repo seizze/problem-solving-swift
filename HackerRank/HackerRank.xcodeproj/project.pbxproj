@@ -15,6 +15,7 @@
 		C27B44BE24B702FE00378D62 /* SparseArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B44BD24B702FE00378D62 /* SparseArrays.swift */; };
 		C2EAFFA824BC3D02006AAE42 /* BalancedBrackets.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EAFFA724BC3D02006AAE42 /* BalancedBrackets.swift */; };
 		C2EAFFAC24BCB91F006AAE42 /* QueensAttack2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EAFFAB24BCB91F006AAE42 /* QueensAttack2.swift */; };
+		C2EAFFB024BDD8CA006AAE42 /* SherlockAndTheValidString.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EAFFAF24BDD8CA006AAE42 /* SherlockAndTheValidString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		C27B44BD24B702FE00378D62 /* SparseArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparseArrays.swift; sourceTree = "<group>"; };
 		C2EAFFA724BC3D02006AAE42 /* BalancedBrackets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalancedBrackets.swift; sourceTree = "<group>"; };
 		C2EAFFAB24BCB91F006AAE42 /* QueensAttack2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueensAttack2.swift; sourceTree = "<group>"; };
+		C2EAFFAF24BDD8CA006AAE42 /* SherlockAndTheValidString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SherlockAndTheValidString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				C27B44BD24B702FE00378D62 /* SparseArrays.swift */,
 				C2EAFFA724BC3D02006AAE42 /* BalancedBrackets.swift */,
 				C2EAFFAB24BCB91F006AAE42 /* QueensAttack2.swift */,
+				C2EAFFAF24BDD8CA006AAE42 /* SherlockAndTheValidString.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				C27B449C24B5968500378D62 /* Solution.swift in Sources */,
 				C27B44BE24B702FE00378D62 /* SparseArrays.swift in Sources */,
 				C27B44A024B5C35300378D62 /* DynamicArray.swift in Sources */,
+				C2EAFFB024BDD8CA006AAE42 /* SherlockAndTheValidString.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
