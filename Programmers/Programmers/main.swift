@@ -8,4 +8,4 @@
 
 import Foundation
 
-StringCompression().run()
+LockAndKey().run()

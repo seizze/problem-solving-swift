@@ -12,6 +12,7 @@
 		C27B44B824B61F8700378D62 /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B44B724B61F8700378D62 /* Solution.swift */; };
 		C27B44BA24B6209700378D62 /* KthNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B44B924B6209700378D62 /* KthNumber.swift */; };
 		C27B44BC24B6D51400378D62 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27B44BB24B6D51400378D62 /* StringCompression.swift */; };
+		C2EAFFB224BF460D006AAE42 /* LockAndKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EAFFB124BF460D006AAE42 /* LockAndKey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		C27B44B724B61F8700378D62 /* Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
 		C27B44B924B6209700378D62 /* KthNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthNumber.swift; sourceTree = "<group>"; };
 		C27B44BB24B6D51400378D62 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
+		C2EAFFB124BF460D006AAE42 /* LockAndKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockAndKey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				C27B44B524B61F6100378D62 /* Marathoners.swift */,
 				C27B44B924B6209700378D62 /* KthNumber.swift */,
 				C27B44BB24B6D51400378D62 /* StringCompression.swift */,
+				C2EAFFB124BF460D006AAE42 /* LockAndKey.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2EAFFB224BF460D006AAE42 /* LockAndKey.swift in Sources */,
 				C27B44B624B61F6100378D62 /* Marathoners.swift in Sources */,
 				C27B44BC24B6D51400378D62 /* StringCompression.swift in Sources */,
 				C27B44AE24B61F0600378D62 /* main.swift in Sources */,
