@@ -7,6 +7,7 @@
 * [Marathoners][marathoners-problem] — [solution][marathoners-solution]
 * [Kth Number][kth-number-problem] — [solution][kth-number-solution]
 * [String Compression][string-compression-problem] — [solution][string-compression-solution]
+* [Lock and Key][lock-and-key-problem] — [solution][lock-and-key-solution]
 
 ### LeetCode
 
@@ -69,3 +70,5 @@
 [queens-attack-2-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/QueensAttack2.swift
 [sherlock-and-the-valid-string-problem]: https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=true
 [sherlock-and-the-valid-string-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/SherlockAndTheValidString.swift
+[lock-and-key-problem]: https://programmers.co.kr/learn/courses/30/lessons/60059#
+[lock-and-key-solution]: https://github.com/seizze/problem-solving-swift/blob/master/Programmers/Programmers/Solutions/LockAndKey.swift
