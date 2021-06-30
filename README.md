@@ -33,6 +33,7 @@
 * [Balanced Brackets][balanced-brackets-problem] — [solution][balanced-brackets-solution]
 * [Queens Attack II][queens-attack-2-problem] — [solution][queens-attack-2-solution]
 * [Sherlock and the Valid String][sherlock-and-the-valid-string-problem] — [solution][sherlock-and-the-valid-string-solution]
+* [Sales by match][sales-by-match-problem] - [solution][sales-by-match-solution]
 
 
 [marathoners-problem]: https://programmers.co.kr/learn/courses/30/lessons/42576
@@ -72,3 +73,5 @@
 [sherlock-and-the-valid-string-solution]: https://github.com/seizze/problem-solving-swift/blob/master/HackerRank/HackerRank/Solutions/SherlockAndTheValidString.swift
 [lock-and-key-problem]: https://programmers.co.kr/learn/courses/30/lessons/60059#
 [lock-and-key-solution]: https://github.com/seizze/problem-solving-swift/blob/master/Programmers/Programmers/Solutions/LockAndKey.swift
+[sales-by-match-problem]: https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+[sales-by-match-solution]: https://github.com/AkshayDevkate/HACKER_RANK/blob/master/salesbyMatch.swift
